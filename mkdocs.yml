@@ -1,0 +1,35 @@
+site_name: MathChain NFT Wiki
+site_description: In Math We Trust!
+site_author: MathChain
+
+site_url: http://docs.mathchain.org/nft
+repo_url: https://github.com/mathwallet/nft_docs
+
+dev_addr: 0.0.0.0:8000
+
+copyright: Copyright &copy; 2018 MathChain
+
+nav:
+  - Home: index.md
+  - English:
+    - 'test': en/test.md
+  - 中文:
+    - '测试': cn/test.md
+
+plugins:
+  - search
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'White'
+    accent: 'indigo'
+  logo: 'images/logo.svg'
+
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    # - icon: fontawesome/brands/github-alt
+    #   link: 'https://github.com/mathwallet'
+    # - icon: fontawesome/brands/twitter-alt
+    #   link: 'https://twitter.com/mathwallet'
