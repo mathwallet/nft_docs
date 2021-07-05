@@ -1,13 +1,13 @@
-site_name: MathChain NFT Wiki
+site_name: MathWallet NFT Wiki
 site_description: In Math We Trust!
-site_author: MathChain
+site_author: MathWallet
 
-site_url: http://docs.mathchain.org/nft
+site_url: https://mathwallet.github.io/nft_docs
 repo_url: https://github.com/mathwallet/nft_docs
 
 dev_addr: 0.0.0.0:8000
 
-copyright: Copyright &copy; 2018 MathChain
+copyright: Copyright &copy; 2018 MathWallet
 
 nav:
   - Home: index.md
