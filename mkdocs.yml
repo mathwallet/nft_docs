@@ -12,9 +12,9 @@ copyright: Copyright &copy; 2018 MathWallet
 nav:
   - Home: index.md
   - English:
-    - 'test': en/test.md
+    # - 'home': en/preface.md
   - 中文:
-    - '测试': cn/test.md
+    - '前言': cn/preface.md
 
 plugins:
   - search
