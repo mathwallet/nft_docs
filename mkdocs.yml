@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2018 MathWallet
 nav:
   - Home: index.md
   - English:
-    # - 'home': en/preface.md
+    - 'Preface': en/preface.md
   - 中文:
     - '前言': cn/preface.md
 
