@@ -1,0 +1,9 @@
+NFT originated from the CryptoKitties game in 2017\. Dieter, the developer of NFT, used NFT to represent the different colors, genes, generations and other information that each cryptokitty has.
+
+The most popular token issuing standard on Ethereum at the time was ERC-20\. According to Dieter, during the summer of 2017, ERC20 was particularly popular, with many users asking how Cryptokitties and ERC20 could interact. In fact, the two were incompatible because Cryptokitties were non-homogeneous tokens, while ERC20 was homogeneous token. In order to find a fixed and simple answer to this complex question, Dieter proposed the concept of NFT or non-homogenized token.
+
+Thus, NFT is a concept that exists relative to homogenized tokens.The tokens generated based on ERC-20 standard are usually called Fungible Tokens, or simply NFT, which is a homogeneous Token, also known as the interchangeable Token. The main feature of the tokens is that there is no difference between the tokens, they can be exchanged freely, and be split and integrated. For example, BTC, ETH and other cryptocurrencies are all homogenized tokens (FT). There is no difference between each BTC in nature, and each BTC can be interchanged and divided.
+
+Dieter's innovation is to introduce scarcity into the concept of cryptocurrency, and the key features of NFT (Non-homogeneous Tokens) are uniqueness and unseparability. Each non-homogenized token is different, and non-interchangeable, unique token that cannot be replaced by each other.
+
+In addition, the smallest unit of NFT is 1 and cannot be split. This means that your NFT cannot be swapped with someone else's NFT, nor can it be split into 0.1 pieces. Commonly BTC, ETH can also be 0.001, and the unit of non-homogenized tokens can only be 1, can not be divided into 0.01, like concert tickets, there is no concept of half a ticket.

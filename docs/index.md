@@ -1,6 +1,6 @@
 ## Welcome to MathWallet NFT Wiki
 
-- Website：[http://www.mathchain.org](http://www.mathwallet.org)
+- Website：[http://www.mathwallet.org](http://www.mathwallet.org)
 
 ## Community
 

@@ -13,6 +13,51 @@ nav:
   - Home: index.md
   - English:
     - 'Preface': en/preface.md
+    - 'Basics':
+      - 'What is NFT？': 'en/basics/What is NFT？.md'
+      - 'NFT dictionary': 'en/basics/NFT dictionary.md'
+      - 'NFT Origin': 'en/basics/NFT Origin.md'
+      - 'NFT Standard': 'en/basics/NFT Standard.md'
+      - 'NFT Characteristics': 'en/basics/NFT Characteristics.md'
+      - 'Delete or burn NFT': 'en/basics/Delete or burn NFT.md'
+      - 'NFT Functions': 'en/basics/NFT Functions.md'
+      - 'NFT in DeFi': 'en/basics/NFT in DeFi.md'
+      - 'NFT assets vs Internet files': 'en/basics/NFT assets vs Internet files.md'
+      - 'NFT security': 'en/basics/NFT security.md'
+    - 'NFT Creator Guide':
+      - 'How to collect an NFT': 'en/nft_collector_guide/How to collect an NFT.md'
+      - 'How to buy an NFT': 'en/nft_collector_guide/How to buy an NFT.md'
+      - 'How to sell an NFT': 'en/nft_collector_guide/How to sell an NFT.md'
+      - 'NFT advanced gameplay': 'en/nft_collector_guide/NFT advanced gameplay.md'
+      - 'How to evaluate the value of NFT': 'en/nft_collector_guide/How to evaluate the value of NFT.md'
+      - 'NFT Data Browser': 'en/nft_collector_guide/NFT Data Browser.md'
+      - 'NFT well-known collector': 'en/nft_collector_guide/NFT well-known collector.md'
+      - 'The ten most expensive NFTs in history': 'en/nft_collector_guide/The ten most expensive NFTs in history.md'
+    - 'NFT Creator Guide':
+      - 'How to choose NFT publishing platform': 'en/nft_creator_guide/How to choose NFT publishing platform.md'
+      - 'How to create your own NFT': 'en/nft_creator_guide/How to create your own NFT.md'
+      - 'How to sell your own NFT': 'en/nft_creator_guide/How to sell your own NFT.md'
+      - 'The relationship between NFT and copyright': 'en/nft_creator_guide/The relationship between NFT and copyright.md'
+    - 'NFT Developer Guide':
+      - 'Create NFT smart contract': 'en/nft_developer_guide/Create NFT smart contract.md'
+      - 'NFT Metadata Standard': 'en/nft_developer_guide/NFT Metadata Standard.md'
+      - 'NFT Metadata Storage': 'en/nft_developer_guide/NFT Metadata Storage.md'
+    - 'NFT Projects':
+      - 'CryptoPunks': 'en/nft_projects/CryptoPunks.md'
+      - 'CryptoKitties': 'en/nft_projects/CryptoKitties.md'
+      - 'Decentraland': 'en/nft_projects/Decentraland.md'
+      - 'CryptoVoxels': 'en/nft_projects/CryptoVoxels.md'
+      - 'AART': 'en/nft_projects/AART.md'
+      - 'Flow': 'en/nft_projects/Flow.md'
+      - 'FM Gallery': 'en/nft_projects/FM Gallery.md'
+      - 'Twinci': 'en/nft_projects/Twinci.md'
+      - 'CryptoArt.Ai': 'en/nft_projects/CryptoArt.Ai.md'
+      - 'Re-NFT': 'en/nft_projects/Re-NFT.md'
+      - 'RMRK': 'en/nft_projects/RMRK.md'
+      - 'KodaDot': 'en/nft_projects/KodaDot.md'
+      - 'Cybertino': 'en/nft_projects/Cybertino.md'
+      - 'MyNFT': 'en/nft_projects/MyNFT.md'
+      - 'Unique': 'en/nft_projects/Unique.md'
   - 中文:
     - '前言': cn/preface.md
 
