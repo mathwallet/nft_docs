@@ -4,7 +4,7 @@ We hope this manual can help new users understand the basics of NFT through the 
 
 MathWallet Team
 
-![](quiver-image-url/49C9C5A2DB6923556F30357EA42CDEDA.png)
+![](/nft_docs/images/49C9C5A2DB6923556F30357EA42CDEDA.png)
 
 <https://mathwallet.org/en/nftbook>
 
