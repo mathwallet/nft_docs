@@ -10,7 +10,7 @@ This strategy will help you answer this exact question. We will outline a range 
 
 ## Ways to evaluate NFT
 
-![](resources/4408632B47D72F52EA4F4FE064BC7D04.png)
+![](/nft_docs/images/4408632B47D72F52EA4F4FE064BC7D04.png)
 
 Source: larvalabs.com/cryptopunks
 
@@ -22,7 +22,7 @@ When it comes to objective valuation, you must also consider applicable **rare f
 
 Examples here include binding curves like EulerBeats, or normal Avastar is always 0.07 ETH initially, Uncommon Avastar is always 0.14 ETH, and so on.
 
-![](resources/32B4E27DAF80CB3DC3566F5C0E1154D2.png)
+![](/nft_docs/images/32B4E27DAF80CB3DC3566F5C0E1154D2.png)
 
 Source: avastars.io
 
@@ -36,7 +36,7 @@ Suppose you have a CrypoKitties founder cat (in the first 100 CryptoKitties crea
 
 If the NFT bull market continues in the next few months, then your aggressive analysis is likely to be that your Kitty can easily get dozens of ETH, and your conservative analysis may be that if the NFT bear market, you can at least get any Founder Cat reserve price. , You want to sell. At the same time, you hold Kitty and analyze its valuation among its many possible connections.
 
-![](resources/956C2800A8D5A356C045E0CFED7D41EA.png)
+![](/nft_docs/images/956C2800A8D5A356C045E0CFED7D41EA.png)
 
 Source: cryptokitties.co/kitty/2
 
@@ -148,7 +148,7 @@ The key issues of audio:
 
 Some NFT projects, such as CryptoPunks and Axie Infinity, have NFTs centered on various features. For CryptoPunks, aliens and apepunks are the most valuable compared to standard punk. Likewise, Mystic Axies are the rarest (and usually the most valuable) Axies on the market.
 
-![](resources/BF50235EC456B7620EB80EAC29CB22F6.png)
+![](/nft_docs/images/BF50235EC456B7620EB80EAC29CB22F6.png)
 
 The rarer characteristics, the more likely the NFT is to make substantial profits in the NFT market.
 
@@ -162,7 +162,7 @@ The best approach is to take a holistic approach and understand all aspects of t
 
 For example, the NFT ecosystem just rediscovered the MoonCats project that was released after CryptoPunks-but it disappeared after 2017\. Hundreds of people have now cast MoonCats and tried to value them on OpenSea.
 
-![](resources/0F9D73F856EF7CCDDA57C4EC9F3D01C3.png)
+![](/nft_docs/images/0F9D73F856EF7CCDDA57C4EC9F3D01C3.png)
 
 The truth
 

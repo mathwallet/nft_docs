@@ -20,12 +20,12 @@ The current mainstream decentralized NFT transactions are: Opensea, TreasureLand
 
 Step 1: Open [Opensea ](https://opensea.io/)and connect to the wallet,
 
-![](resources/792B2ACE12F360B174043F47CD8F1BE5.png)
+![](/nft_docs/images/792B2ACE12F360B174043F47CD8F1BE5.png)
 
 Step 2: Pick NFT
 
-![](resources/4C60A4DE77E1169ED10270A9C75BB39E.png)
+![](/nft_docs/images/4C60A4DE77E1169ED10270A9C75BB39E.png)
 
 Step 3: Purchase NFT and confirm payment in the wallet
 
-![](resources/80B7A2AD63D2B7849931A2316DE171AB.png)
+![](/nft_docs/images/80B7A2AD63D2B7849931A2316DE171AB.png)

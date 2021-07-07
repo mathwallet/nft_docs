@@ -8,7 +8,7 @@ In addition to the price of these NFTs, what else is worth paying attention to:
 
 # TOP 10
 
-![](resources/7F120DCA720E9B0613C3ECDF476BCAAB.png)
+![](/nft_docs/images/7F120DCA720E9B0613C3ECDF476BCAAB.png)
 
 **《The Pixel》By: Pak**
 
@@ -32,7 +32,7 @@ Returning to the work, this seemingly monotonous pure gray work is visually pres
 
 # TOP 9
 
-![](resources/C0627106254DE759F211248D409BAEE1.png)
+![](/nft_docs/images/C0627106254DE759F211248D409BAEE1.png)
 
 **《The Switch》By: Pak**
 
@@ -46,7 +46,7 @@ However, what irreversible effects will be produced is still a mystery for the t
 
 # TOP 8
 
-![](resources/AD2F4884268D14BA98B96E14706AE86A.png)
+![](/nft_docs/images/AD2F4884268D14BA98B96E14706AE86A.png)
 
 **《DESTINATION HEXAGONIA》 By: Don Diablo**
 
@@ -60,7 +60,7 @@ This concert was specially created for auction. It is said that it took more tha
 
 # TOP 7
 
-![](resources/C4CD7AE2687A9524C1B34D15067C05DC.png)
+![](/nft_docs/images/C4CD7AE2687A9524C1B34D15067C05DC.png)
 
 **《Death Dip》By: XCOPY**
 
@@ -76,7 +76,7 @@ Three years ago, "Death Dip" was sold to collectors for 0.7 ETH, about $410\. Re
 
 ****
 
-![](resources/E1487D7353E64485516C6D5C6E4F807A.png)
+![](/nft_docs/images/E1487D7353E64485516C6D5C6E4F807A.png)
 
 **《DOGE》****By:Sato Atsuko**
 
@@ -90,7 +90,7 @@ On June 8, Sato Atsuko auctioned this original DOGE photo. After three days of b
 
 # TOP 5
 
-![](resources/846E3EC77631CF92878858D69D32A275.png)
+![](/nft_docs/images/846E3EC77631CF92878858D69D32A275.png)
 
 **《OCEAN FRONT》By: Beeple**
 
@@ -104,7 +104,7 @@ Beeple also stated on Twitter that it will donate all the proceeds from this auc
 
 # TOP 4
 
-![](resources/1D38BC00F1F6F368AABE8D53C28CC080.png)
+![](/nft_docs/images/1D38BC00F1F6F368AABE8D53C28CC080.png)
 
 **《Stay Free》By: Edward Snowden**
 
@@ -124,7 +124,7 @@ All proceeds from this auction will be donated to the Freedom of the Press Found
 
 # TOP 3
 
-![](resources/EACAAA7AAEAB9B2B9C9E9CFBC20A55E7.png)
+![](/nft_docs/images/EACAAA7AAEAB9B2B9C9E9CFBC20A55E7.png)
 
 **《CROSSROAD》By: Beeple**
 
@@ -136,7 +136,7 @@ All proceeds from this auction will be donated to the Freedom of the Press Found
 
 # TOP 2
 
-![](resources/16C10CBC080E3CA04A41984180FEE914.jpg)
+![](/nft_docs/images/16C10CBC080E3CA04A41984180FEE914.jpg)
 
 **《CryptoPunk \#7523》By: Larvalabs**
 
@@ -152,7 +152,7 @@ On June 10th , CryptoPunk \#7523 was sold at Sotheby’s Auction House for $11.8
 
 # TOP 1
 
-![](resources/3080E799BB6EED220FD0BADC11EB2651.jpg)
+![](/nft_docs/images/3080E799BB6EED220FD0BADC11EB2651.jpg)
 
 **《Everydays: The First 5000 Days》By: Beeple**
 

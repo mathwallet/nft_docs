@@ -6,8 +6,8 @@ Well-known DeFi applications that use NFT include:
 
 Uniswap V3 uses NFT as the LP certificate
 
-![](resources/020F8D47E8584EB94E0EF027827A2F08.png)
+![](/nft_docs/images/020F8D47E8584EB94E0EF027827A2F08.png)
 
 Yinsurance uses NFT to represent a DeFi policy certificate
 
-![](resources/47E330743C50276B2BDFD3C374978651.png)
+![](/nft_docs/images/47E330743C50276B2BDFD3C374978651.png)

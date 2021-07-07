@@ -30,7 +30,7 @@ I will break down all your main options here so that you can start designing you
 
 Ethereum already has multiple general NFT markets, such as OpenSea and Rarible, which aggregate NFTs from the entire ecosystem, allowing users to purchase various NFTs through a single, user-friendly dashboard.
 
-![](resources/6AD47A6021C9ECF3D11F100A01CB7C38.jpg =1456x731)
+![](/nft_docs/images/6AD47A6021C9ECF3D11F100A01CB7C38.jpg =1456x731)
 
 Source: opensea.io
 
@@ -40,7 +40,7 @@ Of course, you can use both platforms, but before you do anything, you need to s
 
 Markets such as OpenSea allow buying and selling in multiple tokens, but ETH is usually the primary currency of choice. You also need an encrypted wallet so you can directly interact with smart contracts in the NFT market.
 
-![](resources/EF1A2B2A27A410E641C32CEF75C5468D.jpg =1182x850)
+![](/nft_docs/images/EF1A2B2A27A410E641C32CEF75C5468D.jpg =1182x850)
 
 Source: superare.co/discover
 
@@ -62,7 +62,7 @@ These tokens allow holders to manage these projects from the bottom up and co-ow
 
 If these NFT projects start to grow substantially from here, the demand for their governance tokens should increase accordingly. Purchasing these tokens on DEXs such as Uniswap is a way to access the NFT ecosystem, although these specific assets can also be obtained through ecosystem participation (for example, buying and selling on Rarible or playing Axie infinity regularly).
 
-![](resources/798C7887B230E4D326E0178A5F50BD2D.jpg =749x696)
+![](/nft_docs/images/798C7887B230E4D326E0178A5F50BD2D.jpg =749x696)
 
 Source: axie.substack.com
 
@@ -82,7 +82,7 @@ If you believe that the value of the underlying NFT will rise, then these partia
 
 More and more NFT holders are interested in using NFT to borrow cryptocurrency on platforms such as NFTfi, which is an NFT mortgage loan platform.Takeaway? You can lend crypto peer-to-peer to people who use NFT as collateral and earn interest on it. If the borrower defaults, you will be rewarded with the underlying NFT collateral.
 
-![](resources/BDBE5E35A688046C3BB469FFB506BEE8.jpg =1456x703)
+![](/nft_docs/images/BDBE5E35A688046C3BB469FFB506BEE8.jpg =1456x703)
 
 Source: nftfi.com/app/le
 
