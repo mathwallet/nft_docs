@@ -8,5 +8,6 @@
 首轮 Premium NFT包含曾两度获得全英音乐奖 (BRIT) 的歌手 Lewis Capaldi、视觉艺术家 Trevor Jones (注：曾创作 Bitcoin Angel 等画作)、电竞团队 eStarPro，以及顶级职业足球明星 Michael Owen 和 Alphonso Davies。
 ​
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623901829321-0145487b-811d-495d-90aa-097ac33e872c.png#clientId=uf715f25f-e5fc-4&from=paste&height=338&id=u37b7307d&margin=%5Bobject%20Object%5D&name=image.png&originHeight=338&originWidth=600&originalType=binary&ratio=1&size=208282&status=done&style=none&taskId=u7cdbc099-8d8d-48bc-a029-626510b81d7&width=600)
+![](/nft_docs/images/7.png)
+
 [https://nft.binance.com/](https://nft.binance.com/)
