@@ -90,6 +90,8 @@ nav:
       - '创建NFT智能合约': 'cn/nft_developer_guide/Create NFT smart contract.md'
       - 'NFT元数据标准': cn/nft_developer_guide/NFT Metadata Standard.md'
       - 'NFT元数据存储': 'cn/nft_developer_guide/NFT Metadata Storage.md'
+    - 'NFT项目':
+      - 'CryptoPunks': 'cn/nft_projects/CryptoPunks.md'
     - '联系我们': 'cn/contact_us.md'
 
 plugins:
