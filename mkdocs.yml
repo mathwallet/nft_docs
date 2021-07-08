@@ -92,6 +92,43 @@ nav:
       - 'NFT元数据存储': 'cn/nft_developer_guide/NFT Metadata Storage.md'
     - 'NFT项目':
       - 'CryptoPunks': 'cn/nft_projects/CryptoPunks.md'
+      - 'Cryptokitties': 'en/nft_projects/Cryptokitties.md'
+      - 'Opensea': 'en/nft_projects/Opensea.md'
+      - 'Binance NFT Market': 'en/nft_projects/Binance NFT Market.md'
+      - 'Decentraland': 'en/nft_projects/Decentraland.md'
+      - 'CryptoVoxels': 'en/nft_projects/CryptoVoxels.md'
+      - 'NBA Top Shots': 'en/nft_projects/NBA Top Shots.md'
+      - 'Rarible': 'en/nft_projects/Rarible.md'
+      - 'Nifty Gateway': 'en/nft_projects/Nifty Gateway.md'
+      - 'BakerySwap': 'en/nft_projects/BakerySwap.md'
+      - 'DEGO.Finance': 'en/nft_projects/DEGO.Finance.md'
+      - 'MakersPlace': 'en/nft_projects/MakersPlace.md'
+      - 'Flow': 'en/nft_projects/Flow.md'
+      - 'SuperRare': 'en/nft_projects/SuperRare.md'
+      - 'VIV3': 'en/nft_projects/VIV3.md'
+      - 'Enjin': 'en/nft_projects/Enjin.md'
+      - 'AART': 'en/nft_projects/AART.md'
+      - 'Cybertino': 'en/nft_projects/Cybertino.md'
+      - 'FM Gallery': 'en/nft_projects/FM Gallery.md'
+      - 'Treasureland': 'en/nft_projects/Treasureland.md'
+      - 'Bit.Country': 'en/nft_projects/Bit.Country.md'
+      - 'KodaDot': 'en/nft_projects/KodaDot.md'
+      - 'RMRK': 'en/nft_projects/RMRK.md'
+      - 'PolkaPets': 'en/nft_projects/PolkaPets.md'
+      - 'Seascape Network': 'en/nft_projects/Seascape Network.md'
+      - 'MyNFT': 'en/nft_projects/MyNFT.md'
+      - 'Twinci': 'en/nft_projects/Twinci.md'
+      - 'Unique': 'en/nft_projects/Unique.md'
+      - 'CryptoArt.Ai': 'en/nft_projects/CryptoArt.Ai.md'
+      - 'BCA Network': 'en/nft_projects/BCA Network.md'
+      - 'Top Bidder': 'en/nft_projects/Top Bidder.md'
+      - 'ATTA': 'en/nft_projects/ATTA.md'
+      - 'Re-NFT': 'en/nft_projects/Re-NFT.md'
+      
+      
+      
+      
+      
     - '联系我们': 'cn/contact_us.md'
 
 plugins:
