@@ -24,7 +24,7 @@ nav:
       - 'NFT in DeFi': 'en/basics/NFT in DeFi.md'
       - 'NFT assets vs Internet files': 'en/basics/NFT assets vs Internet files.md'
       - 'NFT security': 'en/basics/NFT security.md'
-    - 'NFT Creator Guide':
+    - 'NFT Collector Guide':
       - 'How to collect an NFT': 'en/nft_collector_guide/How to collect an NFT.md'
       - 'How to buy an NFT': 'en/nft_collector_guide/How to buy an NFT.md'
       - 'How to sell an NFT': 'en/nft_collector_guide/How to sell an NFT.md'
@@ -58,8 +58,39 @@ nav:
       - 'Cybertino': 'en/nft_projects/Cybertino.md'
       - 'MyNFT': 'en/nft_projects/MyNFT.md'
       - 'Unique': 'en/nft_projects/Unique.md'
+    - 'Contact Us': 'en/contact_us.md'
   - 中文:
-    - '前言': cn/preface.md
+    - '前言': en/preface.md
+    - '基础知识':
+      - '什么是NFT': 'cn/basics/What is NFT？.md'
+      - 'NFT词典': 'cn/basics/NFT dictionary.md'
+      - 'NFT起源': 'cn/basics/NFT Origin.md'
+      - 'NFT标准': 'cn/basics/NFT Standard.md'
+      - 'NFT的特性': 'cn/basics/NFT Characteristics.md'
+      - 'NFT的销毁': 'cn/basics/Delete or burn NFT.md'
+      - 'NFT的用途': 'cn/basics/NFT Functions.md'
+      - 'NFT在Defi中的应用': 'cn/basics/NFT in DeFi.md'
+      - 'NFT资产与互联网文件的区别': 'cn/basics/NFT assets vs Internet files.md'
+      - 'NFT安全': 'cn/basics/NFT security.md'
+    - 'NFT藏家指南':
+      - '如何收藏一枚NFT': 'cn/nft_collector_guide/How to collect an NFT.md'
+      - '如何购买一枚NFT': 'cn/nft_collector_guide/How to buy an NFT.md'
+      - '如何出售一枚NFT': 'cn/nft_collector_guide/How to sell an NFT.md'
+      - 'NFT的高级玩法': 'cn/nft_collector_guide/NFT advanced gameplay.md'
+      - '如何评估NFT的价值': 'cn/nft_collector_guide/How to evaluate the value of NFT.md'
+      - 'NFT相关数据网站': 'cn/nft_collector_guide/NFT Data Browser.md'
+      - 'NFT知名收藏家': 'cn/nft_collector_guide/NFT well-known collector.md'
+      - '史上十大最贵NFT': 'cn/nft_collector_guide/The ten most expensive NFTs in history.md'
+    - 'NFT创作者指南':
+      - '如何选择NFT发布平台': 'cn/nft_creator_guide/How to choose NFT publishing platform.md'
+      - '如何创建自己的NFT': 'cn/nft_creator_guide/How to create your own NFT.md'
+      - '如何销售自己的NFT': 'cn/nft_creator_guide/How to sell your own NFT.md'
+      - 'NFT和版权的关系': 'cn/nft_creator_guide/The relationship between NFT and copyright.md'
+    - 'NFT开发者指南':
+      - '创建NFT智能合约': 'cn/nft_developer_guide/Create NFT smart contract.md'
+      - 'NFT元数据标准': cn/nft_developer_guide/NFT Metadata Standard.md'
+      - 'NFT元数据存储': 'cn/nft_developer_guide/NFT Metadata Storage.md'
+    - '联系我们': 'cn/contact_us.md'
 
 plugins:
   - search
