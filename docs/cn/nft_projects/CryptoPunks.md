@@ -5,7 +5,8 @@
 
 2、Larva Labs于2017年6月23日推出了CryptoPunks
 CryptoPunk是由24x24、8bit样式的不规则像素组成的艺术图像集合。大约有10,000个，每个都有自己随机生成的独特外观和特征。
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623901046866-412d045e-fd19-4d29-a357-6bc9b4645809.png#clientId=u811d3e99-c083-4&from=paste&id=u178d2201&margin=%5Bobject%20Object%5D&name=image.png&originHeight=437&originWidth=700&originalType=url&ratio=1&size=160209&status=done&style=none&taskId=uf46f9b6b-21df-47b7-b547-a04d321a9dd)
+
+![](/nft_docs/images/79870808980343.png)
 
 每个Punk都有自己的个性，这得益于一个独特的随机生成特征，从眼镜到帽子到连帽衫都有所不同。上图：CryptoPunks 58、603和768， 3幅作品将在5月13日佳士得拍卖会上展出
 ​
@@ -16,7 +17,8 @@ CryptoPunk是由24x24、8bit样式的不规则像素组成的艺术图像集合�
 
 3、CryptoPunks的灵感来自伦敦Punk 精神
 对于Hall和Watkinson而言，在区块链运动的早期，存在着一种喧闹的，反建制的精神，他们想在Punk的外观中反映出这种氛围。他们解释说：“他们必须是一堆不合群和不合规的人，20世纪70年代的伦敦Punk运动感觉就像是正确的审美观， 以电影《银翼杀手》（Blade Runner）和威廉·吉布森（William Gibson）的小说《神经漫游者》为代表的反乌托邦的赛博朋克精神也产生了影响。”
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623901046821-dc901338-44bf-4166-a23b-2c18667823db.png#clientId=u811d3e99-c083-4&from=paste&id=u04d383e5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=436&originWidth=700&originalType=url&ratio=1&size=111859&status=done&style=none&taskId=uaa8821a4-d2f0-42d2-b8a9-ae21ff48d0a)
+
+![](/nft_docs/images/1.png)
 
 受70年代伦敦Punk的启发，许多Punk都有莫霍克亦或极具狂野的发型，例如CryptoPunks 532和602，它们将在5月13日纽约佳士得21世纪晚间拍卖会上展出。
 ​
@@ -33,7 +35,7 @@ Hall和Watkinson提出的系统有时被比作拥有一件永久租借给公共�
 6、一些CryptoPunk比其他CryptoPunk更稀有
 除了人类外形的CryptoPunks，Hall和Watkinson对流行文化原型致敬，他们调整了软件算法，生成了数量稀少的奇幻，非人类的作品，增加了88个绿色皮肤的僵尸Punks，24个长毛猿人Punks和9个浅蓝色皮肤的外星人Punk。像人类Punk一样，非人类Punk也有不同的配饰组合：例如，一个外星人正在抽烟斗，被称为“wise alien”。
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623901046687-aad6a5e2-68d6-4e5a-aa46-3e0f74e5cc84.png#clientId=u811d3e99-c083-4&from=paste&id=u414f03b1&margin=%5Bobject%20Object%5D&name=image.png&originHeight=258&originWidth=551&originalType=url&ratio=1&size=33476&status=done&style=none&taskId=uf7403282-e6a0-4c5e-9ac9-3849f36fc04)
+![](/nft_docs/images/2.png)
 
 CryptoPunk 635是9个外星Punk之一，也是唯一一个序列号低于1000的Punk，将是此次拍卖会上的亮点。
 Larva Labs表示“想法的核心是每个角色都应该是唯一的。”生成艺术的优势在于，这一过程一旦启动，就可以产生令我们惊讶的结果。我们运行了数百次生成器，检查了结果并进行了调整。然后，我们高调地运行了最后一次，将它与我们部署的以太坊智能合约联系起来，此后，CryptoPunk就被完全束之高阁，无法被改变。
