@@ -2,7 +2,6 @@ CryptoKitties 推动 NFT逐渐从小众走向主流。CryptoKitties 是一个由
 随后 Axiom Zen 分拆出 Dapper Labs ，Dapper Labs 自 A16z 和 Google Venturest 等顶级投 资者处揽获约 1500 万美元融资。
 ​
 
-![5.png]
-
+![](/nft_docs/images/5.png)
 
 [https://www.cryptokitties.co/](https://www.cryptokitties.co/)
