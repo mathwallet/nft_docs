@@ -10,7 +10,7 @@ OpenSea这样的存在让游戏资产真正地成为了可视化“资产”，�
 目前，OpenSea 是最大的去中心化数字商品市场，包括 Gods Unchained 和 CryptoSpells 等交易卡牌游戏和 Axie Infinity 和加密猫（CryptoKitties） 等收藏游戏。商品具有多个类别，完全实现代币化和数字化。
 ​
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623901626955-e7da9992-2343-42a3-8f77-b5a09e6f6f57.png#clientId=u50b573b3-317d-4&from=paste&height=535&id=u28a4e4be&margin=%5Bobject%20Object%5D&name=image.png&originHeight=535&originWidth=1080&originalType=binary&ratio=1&size=550136&status=done&style=none&taskId=u185f724f-d847-4cf7-b11b-a4c54f72bdb&width=1080)
+![](/nft_docs/images/6.png)
 
 
 [https://opensea.io/](https://opensea.io/)
