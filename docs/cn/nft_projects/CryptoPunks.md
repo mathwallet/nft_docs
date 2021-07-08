@@ -5,7 +5,7 @@
 2、Larva Labs于2017年6月23日推出了CryptoPunks
 CryptoPunk是由24x24、8bit样式的不规则像素组成的艺术图像集合。大约有10,000个，每个都有自己随机生成的独特外观和特征。
 
-
+![](/nft_docs/images/79870808980343.png)
 
 
 
