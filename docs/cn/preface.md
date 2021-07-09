@@ -19,7 +19,7 @@
 
 ​
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737182/1623897798461-4d86fb23-95c3-4c40-a222-0cbd85d328d8.png#clientId=u8e834140-e32a-4&from=paste&height=139&id=l3SOo&margin=%5Bobject%20Object%5D&name=image.png&originHeight=336&originWidth=448&originalType=binary&ratio=1&size=12559&status=done&style=none&taskId=u97e70d45-c0e1-4d66-8c8c-db04269a546&width=185)
+![image.png](/nft_docs/images/1928571923.png)
 ​
 
 ​
@@ -36,4 +36,4 @@
 ​
 
 媒体合作
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/21737292/1624268023464-fbe46e7f-5c51-48db-9673-1a629ac83bd0.png#clientId=ua922026a-a079-4&from=paste&height=109&id=ud8796d7b&margin=%5Bobject%20Object%5D&name=image.png&originHeight=242&originWidth=765&originalType=binary&ratio=1&size=27868&status=done&style=none&taskId=u89a50fcd-a878-45e5-83fd-0f256f4f721&width=346)
+![image.png](/nft_docs/images/8129759871.png)
