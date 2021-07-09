@@ -60,7 +60,7 @@ nav:
       - 'Unique': 'en/nft_projects/Unique.md'
     - 'Contact Us': 'en/contact_us.md'
   - 中文:
-    - '前言': en/preface.md
+    - '前言': cn/preface.md
     - '基础知识':
       - '什么是NFT': 'cn/basics/What is NFT？.md'
       - 'NFT词典': 'cn/basics/NFT dictionary.md'
