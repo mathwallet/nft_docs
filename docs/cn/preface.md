@@ -13,12 +13,6 @@
 本手册由麦子钱包整理编辑
 ​
 
-​
-
-​
-
-​
-
 ![image.png](/nft_docs/images/1928571923.png)
 ​
 
@@ -36,4 +30,5 @@
 ​
 
 媒体合作
+
 ![image.png](/nft_docs/images/8129759871.png)
