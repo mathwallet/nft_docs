@@ -1,8 +1,8 @@
-As news about the rise of NFT continues to spread, we have received more and more questions from artists and creators who want to sell their works on the blockchain. For many people, the first step may be difficult to overcome. Encrypted wallet? Ethereum? Here is how to convert your artwork into NFT and sell it on OpenSea.
+As news about the rise of NFT continues to spread, we have received more and more questions from artists and creators who want to sell their works on the blockchain. For many people, the first step may be difficult to overcome. Crypto wallet? Ethereum? Here is how to convert your artwork into NFT and sell it on OpenSea.
 
 ## Set up your wallet
 
-First, you need a wallet to store your cryptocurrency and NFT. We recommend using a wheat wallet. The following are answers to frequently asked questions about Maizi Wallet for reference! After installation, go to OpenSea, click the icon in the upper right corner, and then click My Profile. Press login and follow the instructions in the wallet.
+First, you need a wallet to store your cryptocurrency and NFT. We recommend using MathWallet. The following are answers to frequently asked questions about MathWallet for reference! After installation, go to OpenSea, click the icon in the upper right corner, and then click My Profile. Press login and follow the instructions in the wallet.
 
 ## Create your collection
 
