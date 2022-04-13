@@ -6,7 +6,9 @@ NFT is an ERC asset, click on the collection in the ETH wallet to view the owned
 
 ![](/nft_docs/images/67B5717BA623C489B1875E5C77E30136.png)
 
-Send and receive NFTSend NFT: 
+Send and receive NFT
+
+Send NFT: 
 
 Take the NFT of MATH Wallet as an example, click on the MATH Wallet category-NFT Collection-Send-Enter the recipient ETH address
 
